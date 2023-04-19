@@ -1,0 +1,42 @@
+[
+    {
+      "nombre": "Lucas",
+      "apellido": "García",
+      "dni": "12345678",
+      "direccion": "Av. 9 de Julio 1234",
+      "genero": "Masculino",
+      "edad": 27,
+      "fechaNacimiento": "1996-05-12",
+      "pais": "Argentina"
+    },
+    {
+      "nombre": "María",
+      "apellido": "López",
+      "dni": "23456789",
+      "direccion": "Calle Falsa 123",
+      "genero": "Femenino",
+      "edad": 35,
+      "fechaNacimiento": "1986-08-20",
+      "pais": "México"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Martínez",
+      "dni": "34567890",
+      "direccion": "Rua das Flores 567",
+      "genero": "Masculino",
+      "edad": 42,
+      "fechaNacimiento": "1979-02-02",
+      "pais": "Brasil"
+    },
+    {
+      "nombre": "Ana",
+      "apellido": "González",
+      "dni": "45678901",
+      "direccion": "Calle Mayor 12",
+      "genero": "Femenino",
+      "edad": 19,
+      "fechaNacimiento": "2002-11-15",
+      "pais": "España"
+    }
+  ]
