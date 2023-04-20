@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "MacBook Pro",
+        "brand": "Apple",
+        "price": 2399.99,
+        "description": "Powerful laptop with Retina display, touch bar, and fast performance.",
+        "image": "https://www.apple.com/v/macbook-pro-13/i/images/specs_hero__ijmbvoqk4qiq_large.png"
+    },
+    {
+        "id": 2,
+        "name": "iPhone 13 Pro",
+        "brand": "Apple",
+        "price": 999.99,
+        "description": "Flagship smartphone with A15 Bionic chip, 5G connectivity, and Pro camera system.",
+        "image": "https://www.apple.com/v/iphone-13-pro/a/images/overview/hero__x0bgjhx58fyu_large.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Galaxy Z Flip3 5G",
+        "brand": "Samsung",
+        "price": 999.99,
+        "description": "Foldable smartphone with 120Hz display, Snapdragon 888 processor, and 5G connectivity.",
+        "image": "https://images.samsung.com/is/image/samsung/p6pim/us/samsung-z-flip3-5g-sm-f711uzgaxaa-sm-f711uznaxaa-sm-f711uzwaxaa-sm-f711uzraxaa-48552445?$720_576_PNG$"
+    },
+    {
+        "id": 4,
+        "name": "Pixelbook Go",
+        "brand": "Google",
+        "price": 649.99,
+        "description": "Lightweight and portable laptop with long battery life and built-in Google Assistant.",
+        "image": "https://lh3.googleusercontent.com/proxy/VeKnJyxRU9t2-CbzyTIBVhJcTfC1VpFvJTGjJZpIfLZrWgX9IK_9cnHnFFlEtbBQJxgUKq3IRylSXCdUQO5o6-wXO5qb5L4H4bFr4NKHJjym8BoC-Di53P_SoZIzSwNTLXeZkrdb-Y-dlNbrGMdCI_0SnfPTQvJl_xIbZnBAPZ1uaegX_LzroZurBOf23d6nzc=w1578-h888"
+    }
+]
